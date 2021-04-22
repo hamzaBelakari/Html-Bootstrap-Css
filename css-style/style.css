@@ -1,0 +1,122 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+.nav{
+    font-family: 'Dancing Script', cursive;
+    color: #ecf0f1;
+    font-weight: bold;
+}
+nav{
+    background-color: #1abc9c;
+}
+.Services{
+    display: flex;
+    margin: auto;
+}
+.cont-services{
+    text-align: center;
+    padding-top: 50px;
+    
+}
+.space{
+    height: 50px;
+}
+.ligne{
+    margin: auto;
+    width: 70px;
+    border: #1abc9c solid 2px;
+}
+.portfolio{
+    padding: 5% 5%;
+}
+.cont-services i {
+    color:#1abc9c ;
+    font-size: 70px;
+}
+.cont-services h2{
+    padding-bottom: 15px;
+}
+.cont-services p {
+    padding-top: 20px;
+    padding-bottom: 70px;
+}
+span{
+    display: block;
+    padding-right: 15px;
+}
+.team{
+    padding: 0 50px;
+}
+.team img{
+    border-radius: 50%;
+}
+.team span {
+    color: gray;
+}
+.team p {
+    color: grey;
+}
+.form input{
+    width: 100%;
+}
+.textarea{
+    margin-top: 15px;
+
+}
+.btn-msg{
+    margin-top: 25px;
+}
+.contact-us h2{
+    padding-top: 50px;
+}
+.contact-us p{
+    padding-top: 30px;
+}
+.contact-us .ligne{
+    margin-top: 25px;
+}
+#pad i {
+    color:#1abc9c ;
+    font-size: 30px;
+}
+.form{
+    padding-bottom: 15px;
+}
+.form .btn{
+    background-color: white;
+    color: #1abc9c;
+    border-color: #1abc9c;
+}
+.btn:hover{
+    background-color: #1abc9c;
+    border-color: #1abc9c;
+    color: white;
+}
+footer{
+    background-color:#1abc9c;
+    height: 70px;
+    color: white;
+    font-family: 'Satisfy', cursive;
+}
+address{
+    padding-top: 10px;
+    font-size: 30px;
+}
+ #pad{
+     display: inline-block;
+ }
+::-webkit-scrollbar{
+    width: 8px;
+}
+::-webkit-scrollbar-track{
+    border: 7px solid #fff;
+}
+::-webkit-scrollbar-thumb{
+    background: linear-gradient(transparent, #1abc9c);
+    border-radius: 5px;
+}
+::-webkit-scrollbar-thumb:hover{
+    background: linear-gradient(#b8f1e6, #07755f);
+    border-radius: 6px;
+}
